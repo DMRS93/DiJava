@@ -14,4 +14,7 @@ public class MathOperations {
         return firstNumber - secondNumber;
     }
 
+    public static int divison(int firstNumber, int secondNumber){
+        return firstNumber / secondNumber;
+    }
 }
