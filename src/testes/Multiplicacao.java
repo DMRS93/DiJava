@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Multiplicacao {
 
-    public static int multiplicacao(){
+    public static void multiplicacao(){
         Scanner scanner = new Scanner(System.in);
 
         int firstNumber = scanner.nextInt();

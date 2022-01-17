@@ -13,7 +13,7 @@ public class Soma {
 
 		int c = a + b;
 		System.out.println(c);
-		sc.close();
+//		sc.close();
 	}
 
 }
