@@ -6,7 +6,6 @@ public class Soma {
 
 	public static void soma() {
 		System.out.println("Escolha dois numeros");
-
 		Scanner sc = new Scanner(System.in);
 
 		int a = sc.nextInt();
